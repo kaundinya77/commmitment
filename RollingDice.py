@@ -23,8 +23,14 @@ while(x != 0) :
 # no comments added 
 # this is the first comment 
 
+# learning to branch 
+# this is the first branch message 
+
+# this is the second branch message 
+#this will not reflect in the master file
 
 # done with changes in master branch 
+
 
 
 	
